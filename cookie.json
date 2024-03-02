@@ -1,0 +1,179 @@
+[
+    {
+        "model": "main_app.cookie",
+        "pk": 2,
+        "fields":{
+        "image": "https://i.imgur.com/cli2LUa.jpg",
+        "name": "Movie Theater Popcorn Cookie",
+        "description": "Bringing you back to memories at the movies, this sweet cookie has popcorn and M&M candies",
+        "price": "$5/each or $50/dozen",
+        "category": "traditional"
+    }
+},
+    {
+        "model": "main_app.cookie",
+        "pk": 3,
+        "fields":{
+        "image": "https://i.imgur.com/nvbcgpy.jpg",
+        "name": "Chocolate Chip Marshmallow",
+        "description": "A classic chocolate chip cookie stuffed with marshmallow",
+        "price": "$8 for one or $45 for 6",
+        "category": "traditional"
+    }
+},
+    {
+        "model": "main_app.cookie",
+        "pk": 1,
+        "fields":{
+        "image": "https://i.imgur.com/j0UjzcY.jpg?3",
+        "name": "Fruity Pebble Sugar Cookie",
+        "description": "With a pop of lemon, this cookie has an extra sweet crunch from Fruity Pebbles cereal",
+        "price": "$5/each or $50/dozen",
+        "category": "traditional"
+    }
+},
+    {
+        "model": "main_app.cookie",
+        "pk": 4,
+        "fields":{
+        "image": "https://i.imgur.com/xoRooGL.jpg",
+        "name": "Lemon Marshmallow Cookie",
+        "description": "Sweet, lemony cookie with gooey marshmallow baked throughout. Great for summer, or really anytime",
+        "price": "$5/each or $50/dozen",
+        "category": "traditional"
+    }
+},
+    {
+        "model": "main_app.cookie",
+        "pk": 11,
+        "fields":{
+        "image": "https://i.imgur.com/dYsc45x.jpg",
+        "name": "Pet Portrait",
+        "description": "Celebrate your pet with it's own cookie portrait",
+        "price": "$25",
+        "category": "decorated"
+    }
+},
+    {
+        "model": "main_app.cookie",
+        "pk": 9,
+        "fields":{
+        "image": "https://i.imgur.com/WQBXqt7.jpg",
+        "name": "Welcome Back",
+        "description": "Delight any teacher at the launch of the new school year. The notebook cookies are 4 inch square",
+        "price": "$5/each or $50/dozen",
+        "category": "decorated"
+    }
+},
+    {
+        "model": "main_app.cookie",
+        "pk": 8,
+        "fields":{
+        "image": "https://i.imgur.com/acJM6pH.jpg",
+        "name": "Daffodils",
+        "description": "These 3-inch flowers will brighten up any dessert table",
+        "price": "$5/each or $50/dozen",
+        "category": "decorated"
+    }
+},
+    {
+        "model": "main_app.cookie",
+        "pk": 5,
+        "fields":{
+        "image": "https://i.imgur.com/4RDecPg.jpg",
+        "name": "Chocolate Sandwich Cookie",
+        "description": "Buttercream frosting nestled between two soft, but chewy, chocolate cookies.",
+        "price": "$5/each or $50/dozen",
+        "category": "traditional"
+    }
+},
+    {
+        "model": "main_app.cookie",
+        "pk": 6,
+        "fields":{
+        "image": "https://i.imgur.com/jdULjp5.jpg",
+        "name": "Flowers",
+        "description": "Two inch, hand decorated spring flower cookies to brighten any celebration",
+        "price": "$5/each or $50/dozen",
+        "category": "decorated"
+    }
+},
+    {
+        "model": "main_app.cookie",
+        "pk": 7,
+        "fields":{
+        "image": "https://i.imgur.com/kJjmUL3.jpg",
+        "name": "Camp Out Cookies",
+        "description": "The perfect treat to bring along on your next camping trip",
+        "price": "$5/each or $50/dozen",
+        "category": "decorated"
+    }
+},
+    {
+        "model": "main_app.cookie",
+        "pk": 10,
+        "fields":{
+        "image": "https://i.imgur.com/GfImL7w.jpg",
+        "name": "Holiday Wreath",
+        "description": "Enjoy this edible centerpiece either one it's own or as part of a display",
+        "price": "$45",
+        "category": "decorated"
+    }
+},
+    {
+        "model": "main_app.cookie",
+        "pk": 13,
+        "fields":{
+        "image": "https://i.imgur.com/gTsNQy2.jpg",
+        "name": "Valentine's Day variety pack",
+        "description": "Delight those in your life with hand decorated cookies, chocolate cherry cookies, and gooey marshmallow treats",
+        "price": "$45",
+        "category": "decorated"
+    }
+},
+    {
+        "model": "main_app.cookie",
+        "pk": 14,
+        "fields":{
+        "image": "https://i.imgur.com/oVW2bRC.jpg",
+        "name": "Salted Caramel Oatmeal",
+        "description": "Enjoy chewy caramel pieces surrounded by a soft oatmeal cookie, sprinkled with sea salt flakes.",
+        "price": "$5/each or $50/dozen",
+        "category": "traditional"
+    }
+},
+    {
+        "model": "main_app.cookie",
+        "pk": 15,
+        "fields":{
+        "image": "https://i.imgur.com/5HdD4VY.jpg",
+        "name": "Marshmallow Treat",
+        "description": "A classic taste that brings back so many memories. The crispy rice makes this a gluten-free treat.",
+        "price": "$5 each",
+        "category": "allergy"
+    }
+},
+    {
+        "model": "main_app.cookie",
+        "pk": 16,
+        "fields":{
+        "image": "https://i.imgur.com/LQzX5N8.jpg",
+        "name": "Monster Cookie",
+        "description": "With oats as the hero of this cookies, this gluten-free peanut buttery chewy cookie is only enhanced by the chocolate chip and M&M mix-ins.",
+        "price": "$3/each or $35/dozen",
+        "category": "allergy"
+    }
+},
+    {
+        "model": "main_app.cookie",
+        "pk": 12,
+        "fields":{
+        "image": "https://i.imgur.com/dHGDvHp.jpg",
+        "name": "Flourless Fudge Cookies",
+        "description": "This cookies uses powdered sugar in place of flour. Chocolatey and decadent!",
+        "price": "$8 for 3",
+        "category": "allergy"
+    }
+}
+]
+
