@@ -1,0 +1,16 @@
+{% extends 'base.html' %} {% block content %}
+
+<h1>{cookie.name}</h1>
+
+{% for cookie in cookies %}
+<div class="card">
+    <a href="{% url 'detail' cookie.id %}">
+    <div class="card-content">
+        <img src="{{ cookie.image }}">
+        <span class="card-title">{{ cookie.name}}</span>
+        <p>Description: {{ cookie.description }}<p>
+        <p>Price: {{ cookie.price }}</p>
+    </div>
+    </a>
+</div>
+{% endfor %} {% endblock %}
