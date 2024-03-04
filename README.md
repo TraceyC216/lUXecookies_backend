@@ -1,6 +1,7 @@
 # lUXecookies_backend
 lUXe cookies site
-A full crud site designed to explain and provide what would be defined as a good user experience (UX) through a mock cookie ecommerce site
+
+A full stack site designed to explain and provide what would be defined as a good user experience (UX) through a mock cookie ecommerce site
 
 <img src="https://i.imgur.com/LEs29c8.png">
 <img src="https://i.imgur.com/GQEVayD.png">
